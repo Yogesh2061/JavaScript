@@ -15,3 +15,7 @@ var b = {
 console.log(b);
 b.name = "No name"; //overwritting name property
 console.log(b)
+
+//deleting object prop
+delete b.age
+console.log(b)

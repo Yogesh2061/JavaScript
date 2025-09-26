@@ -9,7 +9,7 @@ b.pop(); //array's functionality=>removes last element.
 console.log(a, b);
  
 var c=[1,2,3,4];
-var d=[...c] //"..." are called spread operators.this will copy the values of a to b.
+var d=[...c] //"..." are called spread operators.this will copy the values of c to d.
 console.log(c,d)
 
 // we can also copy objects like this.
